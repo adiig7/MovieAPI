@@ -1,7 +1,11 @@
 # NodeJs-ExpressJs-MongoDB-RestAPI
 
-
-UPDATE THIS
+A REST API called as MovieAPI has been created by me using
+  - Node.js
+  - MongoDB Atlas
+  - Postman
+  - Express
+  - Mongoose
 
 ## Create .env file
 Create a .env file to store your MongoDB database credentials
