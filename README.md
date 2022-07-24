@@ -23,20 +23,3 @@ $ npm start
 ```
 
 
-### YouTube Video & Article
-
-[YouTube Video](https://youtu.be/xTETCDNUZsg)
-
-[Read Article](https://raddy.co.uk/blog/build-simple-rest-api-with-nodejs-expressjs-and-mongodb/)
-
-### YouTube Channel - RaddyTheBrand
-
-[Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
-
-### Website
-[www.raddy.co.uk](https://www.raddy.co.uk)
-
-### Donations
-[Via Paypal](https://www.paypal.com/donate/?hosted_button_id=YUH7JRDUN5QEY)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
