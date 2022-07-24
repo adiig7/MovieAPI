@@ -1,9 +1,5 @@
 # NodeJs-ExpressJs-MongoDB-RestAPI
 
-This was created as part of YouTube Video. Links below
-
-![GitHub Logo](https://raddy.co.uk/wp-content/uploads/2021/10/nodejs-rest-api-300x169.jpg)
-
 
 UPDATE THIS
 
